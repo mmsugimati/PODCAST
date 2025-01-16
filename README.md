@@ -56,3 +56,24 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de nutrição, focado em vida saudável e déficit calórico e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de vida saudável feito por jovens que tiveram problemas de saúde sobrepeso, mas que levam a vida com bom humor
+
+O podcast vai falar sobre dicas e novidades sobre o mundo da nutrição e o risco que há em seguir a moda de dietas das pessoas famosas
+
+{REGRAS}
+O nome deve ser enxuto, um nome e um subtítulo
+O nome deve ser bem humorado, podem conter algum trocadilho relacionado à cultura pop
+O nome deve conter alguma palavra forte que remeta a boa saúde
+{REGRAS NEGATIVAS}
+Não quero que o título contenha palavras em inglês
+Não quero que utilize nenhuma das palavras nessa lista: doença, vida, morte
+                                                        |
+| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
