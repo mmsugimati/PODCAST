@@ -66,4 +66,4 @@ PicLumen：
 
 ## 🚀 Resultados
 
-[LINK PARA O PODCAST AQUI](https://github.com/mmsugimati/lab-natty-or-not/blob/main/202501151928.mp4)
+[LINK PARA O PODCAST AQUI](https://github.com/mmsugimati/PODCAST/blob/main/Podcast%20Barriga%20Cheia%20Cabe%C3%A7a%20Leve.MP3)
