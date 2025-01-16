@@ -63,3 +63,7 @@ PicLumen：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | conteúdo | podcaster bela, jovem e mulher, em frente ao microfone gravando o podcast, em estúdio, decorado com alimentos e bebidas saudáveis|
+
+## 🚀 Resultados
+
+[LINK PARA O PODCAST AQUI](https://github.com/mmsugimati/lab-natty-or-not/blob/main/202501151928.mp4)
