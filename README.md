@@ -63,11 +63,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de nutrição, focado em vida saudável e déficit calórico e eu gostaria de uma ajuda sua para criar 5 sugestões
-de nomes criativos para um podcast de vida saudável feito por jovens que tiveram problemas de saúde sobrepeso, mas que levam a vida com bom humor
-
-O podcast vai falar sobre dicas e novidades sobre o mundo da nutrição e o risco que há em seguir a moda de dietas das pessoas famosas
-
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de nutrição, focado em vida saudável e déficit calórico e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de vida saudável feito por jovens que tiveram problemas de saúde sobrepeso, mas que levam a vida com bom humor. O podcast vai falar sobre dicas e novidades sobre o mundo da nutrição e o risco que há em seguir a moda de dietas das pessoas famosas.
 {REGRAS}
 O nome deve ser enxuto, um nome e um subtítulo
 O nome deve ser bem humorado, podem conter algum trocadilho relacionado à cultura pop
