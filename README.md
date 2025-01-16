@@ -1,15 +1,6 @@
 # PODCAST
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
 
-
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
 </a>
 </p>
 
@@ -54,7 +45,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `PicLumen`
 
 ## 🧠 Prompts
 
